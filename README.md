@@ -2,13 +2,13 @@
 This is a java code that unpacker javascript codes packed by Dean Edwards algorithm. These codes begin as follows:
 
 ```
-eval(function(p,a,c,k,e,d){...
+eval(function(p,a,c,k,e,r){...
 ```
 
 Or basically:
 
 ```
-function(p,a,c,k,e,d){...
+function(p,a,c,k,e,r){...
 ```
 <br><br>
 <b>How to use:</b>
